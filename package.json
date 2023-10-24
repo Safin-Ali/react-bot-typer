@@ -1,15 +1,33 @@
 {
 	"name": "react-bot-typer",
 	"version": "1.0.0",
-	"description": "A react component for auto writing animation",
+	"description": "A react component for automatic text writing animation",
 	"main": "dist/index.js",
 	"types": "./dist/index.d.ts",
+	"readme": "README.md",
 	"scripts": {
 		"build": "tsup"
 	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
+	"keywords": [
+		"react-auto-type",
+		"auto-type-animation",
+		"bot-type-react",
+		"react-type-anim",
+		"react-text-writer",
+		"react-bot-typer",
+		"react-text-type-anim",
+		"text-type-animation"
+	],
+	"author": "Safin Ali",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Safin-Ali/react-bot-typer.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Safin-Ali/react-bot-typer/issues"
+	},
+	"homepage": "https://github.com/Safin-Ali/react-bot-typer#readme",
 	"devDependencies": {
 		"@types/react": "^18.2.8",
 		"@types/react-dom": "^18.2.4",
