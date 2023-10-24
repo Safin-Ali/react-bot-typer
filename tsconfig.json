@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "outDir": "./dist",
+        "module": "commonjs",
+        "target": "es5",
+		"downlevelIteration": true,
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "jsx": "react",
+        "esModuleInterop": true,
+        "strict": true
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "node_modules",
+    ]
+}
